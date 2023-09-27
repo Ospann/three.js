@@ -8,6 +8,7 @@ const Navigation = () => {
             <button onClick={()=>navigate("/")}>Cube</button>
             <button onClick={()=>navigate("/model")}>Model</button>
             <button onClick={()=>navigate("/sphere")}>Sphere</button>
+            <button onClick={()=>navigate("/tile")}>Tile</button>
         </div>
     )
 }
